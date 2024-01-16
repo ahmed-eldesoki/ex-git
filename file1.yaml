@@ -2,3 +2,4 @@ first_word_1
 second_line
 test-branch-non-prod
 line-non-prod-test checkout --
+test merge
